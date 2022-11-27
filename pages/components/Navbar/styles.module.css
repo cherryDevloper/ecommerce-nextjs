@@ -1,0 +1,10 @@
+.logo :global(img) {
+  width: 40px;
+  min-width: 40px;
+  min-height: 40px;
+  height: 40px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}

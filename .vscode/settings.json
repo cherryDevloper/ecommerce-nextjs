@@ -1,0 +1,5 @@
+{
+  "prettier.singleAttributePerLine": true,
+  "pretty-formatter.braceLine": true,
+  "pretty-formatter.bracePadding": true
+}
